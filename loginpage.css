@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(128,128,128);
+}
+body .center{
+    margin-left: 394px;
+    margin-top: 107px;
+    height: 390px;
+    width: 380px;
+    border: solid 0px;
+    background-color: rgb(247,247,247);
+}
+body .center .center-inside{
+    margin-left: 26px;
+    margin-top: 20px;
+    height: 325px;
+    width: 326px;
+    color:rgb(247,247,247);
+    border: solid 1px;
+}
+body .center .center-inside div .boxstyle[type=button]{
+    background-color: rgb(77,144,254);
+}
+
+
+body .center .center-inside .center-text{
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 40px;
+    color: #222222;
+}
+body .center .center-inside div .boxstyle{
+    height: 40px;
+    width: 281px;
+    border: solid;
+    margin-left: 22px;
+    margin-top: 27px;
+    color:white;
+}
+body .center .center-inside div .boxstyle:focus{
+    border: solid 2px green;
+}
+body .center .center-inside div .forgot-passward{
+    margin-left: 20px;
+    margin-top: 15px;
+    font-size:14px;
+    font-style: oblique;
+    color:rgb(175,175,175);
+}
+
+
